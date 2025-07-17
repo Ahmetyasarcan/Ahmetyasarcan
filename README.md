@@ -33,16 +33,16 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetgithubkullanıcıadın&show_icons=true&theme=radical" alt="Ahmet's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmetyasarcan&show_icons=true&theme=radical" alt="Ahmet's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetgithubkullanıcıadın&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmetyasarcan&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 ---
 
 ### 📈 GitHub Activity:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetgithubkullanıcıadın&theme=react-dark" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmetyasarcan&theme=react-dark" alt="activity graph"/>
 </p>
 
 ---
